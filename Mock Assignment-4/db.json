@@ -4,13 +4,15 @@
       "name": "Anubhav",
       "email": "a@gmail.com",
       "password": "a123",
-      "doctor": true
+      "doctor": true,
+      "id":1
     },
     {
       "name": "Dixit",
       "email": "d@gmail.com",
       "password": "d123",
-      "doctor": false
+      "doctor": false,
+      "id":2
     }
   ],
   "appointments": [
